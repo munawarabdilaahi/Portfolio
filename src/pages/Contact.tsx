@@ -33,9 +33,9 @@ const Contact = () => {
 
   const contactInfo = [
     {
-      icon: <Mail className="text-primary" size={24} />,
+      icon: <Mail className="text-secondary" size={24} />,
       title: "Email",
-      value: "munawar@example.com",
+      value: "munawarclaahi@gmail.com",
       link: "mailto:munawar@example.com"
     },
     {
@@ -45,7 +45,7 @@ const Contact = () => {
       link: "+252613697169"
     },
     {
-      icon: <MapPin className="text-primary" size={24} />,
+      icon: <MapPin className="text-secondary" size={24} />,
       title: "Location",
       value: "Mogadisho, somalia",
       link: "https://www.google.com/maps/place/Wadajir+(Medina),+Mogadishu/@2.0156018,45.2423747,11160m/data=!3m2!1e3!4b1!4m15!1m8!3m7!1s0x3d58425955ce6b53:0xbb20eaaa52cc59d9!2sMogadishu!3b1!8m2!3d2.0372133!4d45.3379172!16zL20vMGdjbGI!3m5!1s0x3d586a1267a6f12f:0x48cba8a71d4b982e!8m2!3d2.0221232!4d45.2884807!16s%2Fg%2F1v3kfzr2!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -68,7 +68,7 @@ const Contact = () => {
     {
       icon: <Twitter size={24} />,
       name: "Twitter",
-      url: "https://twitter.com/munawar",
+      url: "https://twitter.com/@munawarc78672",
       color: "hover:text-blue-400"
     },
     {
